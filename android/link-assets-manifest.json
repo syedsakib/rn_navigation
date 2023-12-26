@@ -1,0 +1,125 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Inter-Bold.ttf",
+      "sha1": "47bb768bc0dce7072a0c11562c76aec42edd1b6a"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "41985122ae0d78676ac1eb30edde89606bdbe531"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Italic.ttf",
+      "sha1": "20420db4e13d654cbe22b5fba6296c78a6360537"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "fddc8b1c688ef3baed0d5a46abf5f01f0edaf02b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "b13559734aa602f9a1bddb8b5be72d7036858716"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "84d102488738b0ebbc7a5087973effbd54c95bd5"
+    },
+    {
+      "path": "src/assets/images/altosodyssey.jpeg",
+      "sha1": "585eab9140085bbb2984375ce65ab4fdce4094c3"
+    },
+    {
+      "path": "src/assets/images/asphalt9.jpeg",
+      "sha1": "81c73158a3c039df360f769007acfa699cb97f86"
+    },
+    {
+      "path": "src/assets/images/battlefield2042.webp",
+      "sha1": "725c40734ee8c29368586a98820d740dbd4b1a26"
+    },
+    {
+      "path": "src/assets/images/diablo4.jpeg",
+      "sha1": "a9970dcbcd7f383a43ef47f6a6c29e01495f9283"
+    },
+    {
+      "path": "src/assets/images/farcry6.png",
+      "sha1": "717c7d8dca505a6a91415d323b9e10e2335c55ac"
+    },
+    {
+      "path": "src/assets/images/fortnite.webp",
+      "sha1": "5fc3cd085fd2921813a6ef1915cc8ebe0b39b7a1"
+    },
+    {
+      "path": "src/assets/images/genshinimpact.jpeg",
+      "sha1": "2740a338234cc4d58fc32bc8f51c0e750c3709f3"
+    },
+    {
+      "path": "src/assets/images/godofwar.jpeg",
+      "sha1": "4625180f30a8fe4b776090ab5ac0b0657aa67711"
+    },
+    {
+      "path": "src/assets/images/haloinfinite.jpeg",
+      "sha1": "5641ff6c78b34d98c7268f9e98ded9a24cfa04aa"
+    },
+    {
+      "path": "src/assets/images/homescreen/game1.jpeg",
+      "sha1": "c6074c0c357aa89b827e1963120324b05d9ff8c4"
+    },
+    {
+      "path": "src/assets/images/homescreen/game2.jpeg",
+      "sha1": "524cd40c6c104f2b2292608e0b23c767ef38b48e"
+    },
+    {
+      "path": "src/assets/images/homescreen/game3.png",
+      "sha1": "0af21cc33b833fb74cff5202948c3b4142299e23"
+    },
+    {
+      "path": "src/assets/images/menubg.jpeg",
+      "sha1": "75e20fbd8a30a2e1367f42b500ce10ffa3c53b89"
+    },
+    {
+      "path": "src/assets/images/milesmorales.webp",
+      "sha1": "e1fce2e45ef4816aebfffc953b44df355ab56cab"
+    },
+    {
+      "path": "src/assets/images/misc/facebook.svg",
+      "sha1": "033447f30cdb7c58a345c197b04889288b2c7ae9"
+    },
+    {
+      "path": "src/assets/images/misc/gaming.svg",
+      "sha1": "f0f857bf1b59e0f7495fac76b7feb6d03f034122"
+    },
+    {
+      "path": "src/assets/images/misc/google.svg",
+      "sha1": "046b32605384cf010d87e8ac57462c12514cab5e"
+    },
+    {
+      "path": "src/assets/images/misc/login.svg",
+      "sha1": "24f8031586382dd0c784d83b086550fbb30d3e4b"
+    },
+    {
+      "path": "src/assets/images/misc/registration.svg",
+      "sha1": "9e22df215ffbdd7b899a41cb3e149d2408542de4"
+    },
+    {
+      "path": "src/assets/images/misc/twitter.svg",
+      "sha1": "3897b8724c1450f9882470c44ce7bce46db09292"
+    },
+    {
+      "path": "src/assets/images/pokemonunite.jpeg",
+      "sha1": "5cb6166ad8c0a31fc5c01cdc7a0a5728dfacf2cb"
+    },
+    {
+      "path": "src/assets/images/spiderman.webp",
+      "sha1": "c7c800cb7a02095431d46770f01c58f56bc59502"
+    },
+    {
+      "path": "src/assets/images/userprofile.jpg",
+      "sha1": "47f4eb4ccaf3723e1f01d05d94211975a0200426"
+    }
+  ]
+}

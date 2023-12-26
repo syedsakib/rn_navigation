@@ -14,6 +14,36 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Rn_Navigation-Rn_NavigationTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Rn_Navigation-Rn_NavigationTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		F79842DB64284238B8045D89 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6C1734CA4EC4EE68AE8D4C6 /* Inter-Bold.ttf */; };
+		2A65EECF970C4663B004730F /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 02F7E622645A4E8A912864E3 /* Roboto-Bold.ttf */; };
+		EAD78CA4B6A248C3BE405DA9 /* Roboto-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C5F74EA5500E4539870C02C2 /* Roboto-BoldItalic.ttf */; };
+		E0F69CEE027C445E931E06E7 /* Roboto-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9EBA2EE760B40909DFFF804 /* Roboto-Italic.ttf */; };
+		C73DAD02BCF5426987E471DA /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D52FBEDA368A4E4A9B858E0F /* Roboto-Medium.ttf */; };
+		EDEB152057884A6CB9340393 /* Roboto-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DD134184FDB54C498E69A1DB /* Roboto-MediumItalic.ttf */; };
+		E20F9E9D41AE4314ABCE3B39 /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0486E1A8461543C1A97FD0C4 /* Roboto-Regular.ttf */; };
+		3D88635350A943FE9B28AA3C /* fortnite.webp in Resources */ = {isa = PBXBuildFile; fileRef = 6C9C427922A8470D9D0709EF /* fortnite.webp */; };
+		131237BD41CD42F7B9EBDA87 /* facebook.svg in Resources */ = {isa = PBXBuildFile; fileRef = 0AC595D8173B4D9E9C238F24 /* facebook.svg */; };
+		5D3D2CC64644448EAC734289 /* gaming.svg in Resources */ = {isa = PBXBuildFile; fileRef = F64EC87E03DE4FCD9279F7E3 /* gaming.svg */; };
+		9A791FBBE1E34284BAA627A9 /* google.svg in Resources */ = {isa = PBXBuildFile; fileRef = 651B32993B95425CA221BE44 /* google.svg */; };
+		AF241C889C65419EB6E2D1BB /* login.svg in Resources */ = {isa = PBXBuildFile; fileRef = 40013D97C32548B9BFC42B40 /* login.svg */; };
+		68C9B87F897F4588B56A1621 /* registration.svg in Resources */ = {isa = PBXBuildFile; fileRef = C52A40B969BE42CE8D4691AC /* registration.svg */; };
+		B1417D1B436243C8A59B6429 /* twitter.svg in Resources */ = {isa = PBXBuildFile; fileRef = 6461ACD966164B8AAB54E1F8 /* twitter.svg */; };
+		6A96336F612E48BAAD3CBC4D /* spiderman.webp in Resources */ = {isa = PBXBuildFile; fileRef = BB9E0D844677495C88D559A0 /* spiderman.webp */; };
+		B1D22DDCDC3243DB8586DF8B /* farcry6.png in Resources */ = {isa = PBXBuildFile; fileRef = 3CBEECCC8FE9483C8690230D /* farcry6.png */; };
+		B376EAA932804731B9607313 /* altosodyssey.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D8372E984074458C8870CEAE /* altosodyssey.jpeg */; };
+		A4DE95AD010D4E868ED3512F /* asphalt9.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 66441AE3EAE44958BD064B2C /* asphalt9.jpeg */; };
+		12D9BD02E64144258442C533 /* battlefield2042.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4898CF1CC1DD4CFDAD0E4E5F /* battlefield2042.webp */; };
+		19B16727D03443F7B387A831 /* diablo4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = DF9D20CF4886499EAF54758B /* diablo4.jpeg */; };
+		B3D8A4FA0EED4FF6BA525D5D /* genshinimpact.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 9ED3417493C04A92BA9BB719 /* genshinimpact.jpeg */; };
+		DC5F22CD3461413CBC7FC0A8 /* godofwar.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 55A4C0CBFCBA4EA2B3E21CD1 /* godofwar.jpeg */; };
+		DA64A5F3B9A74EF29DEFF8F2 /* haloinfinite.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 444D594EC5064D6AA47B8F3C /* haloinfinite.jpeg */; };
+		613572439FB5452EB8D244F1 /* game1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = F98D7EE5FAF248908BA21DEC /* game1.jpeg */; };
+		E085E9B8AE1C4E2793D14476 /* game2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = E07E73EDCB234F8EB8B8D416 /* game2.jpeg */; };
+		BE7969DD1ADD4A3A84C0653B /* game3.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F0D47D8C894224B534AE1F /* game3.png */; };
+		714A4E5113304E20812A1E73 /* menubg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 26CC7530FD404F6592544765 /* menubg.jpeg */; };
+		E2601A47B3404D1B8A13B15F /* milesmorales.webp in Resources */ = {isa = PBXBuildFile; fileRef = 9824A74AF28D48378DE1DC75 /* milesmorales.webp */; };
+		6FCD5BB5B2A4416BAA0500A2 /* pokemonunite.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 6B30D4BC2B9A44AB90FB885D /* pokemonunite.jpeg */; };
+		50F7743FB04A480D8F29E719 /* userprofile.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E82695E7129A405298851687 /* userprofile.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +74,36 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Rn_Navigation/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Rn_Navigation-Rn_NavigationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rn_Navigation-Rn_NavigationTests.release.xcconfig"; path = "Target Support Files/Pods-Rn_Navigation-Rn_NavigationTests/Pods-Rn_Navigation-Rn_NavigationTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		E6C1734CA4EC4EE68AE8D4C6 /* Inter-Bold.ttf */ = {isa = PBXFileReference; name = "Inter-Bold.ttf"; path = "../src/assets/fonts/Inter-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		02F7E622645A4E8A912864E3 /* Roboto-Bold.ttf */ = {isa = PBXFileReference; name = "Roboto-Bold.ttf"; path = "../src/assets/fonts/Roboto-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C5F74EA5500E4539870C02C2 /* Roboto-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Roboto-BoldItalic.ttf"; path = "../src/assets/fonts/Roboto-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C9EBA2EE760B40909DFFF804 /* Roboto-Italic.ttf */ = {isa = PBXFileReference; name = "Roboto-Italic.ttf"; path = "../src/assets/fonts/Roboto-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D52FBEDA368A4E4A9B858E0F /* Roboto-Medium.ttf */ = {isa = PBXFileReference; name = "Roboto-Medium.ttf"; path = "../src/assets/fonts/Roboto-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DD134184FDB54C498E69A1DB /* Roboto-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Roboto-MediumItalic.ttf"; path = "../src/assets/fonts/Roboto-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0486E1A8461543C1A97FD0C4 /* Roboto-Regular.ttf */ = {isa = PBXFileReference; name = "Roboto-Regular.ttf"; path = "../src/assets/fonts/Roboto-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6C9C427922A8470D9D0709EF /* fortnite.webp */ = {isa = PBXFileReference; name = "fortnite.webp"; path = "../src/assets/images/fortnite.webp"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0AC595D8173B4D9E9C238F24 /* facebook.svg */ = {isa = PBXFileReference; name = "facebook.svg"; path = "../src/assets/images/misc/facebook.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F64EC87E03DE4FCD9279F7E3 /* gaming.svg */ = {isa = PBXFileReference; name = "gaming.svg"; path = "../src/assets/images/misc/gaming.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		651B32993B95425CA221BE44 /* google.svg */ = {isa = PBXFileReference; name = "google.svg"; path = "../src/assets/images/misc/google.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		40013D97C32548B9BFC42B40 /* login.svg */ = {isa = PBXFileReference; name = "login.svg"; path = "../src/assets/images/misc/login.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C52A40B969BE42CE8D4691AC /* registration.svg */ = {isa = PBXFileReference; name = "registration.svg"; path = "../src/assets/images/misc/registration.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6461ACD966164B8AAB54E1F8 /* twitter.svg */ = {isa = PBXFileReference; name = "twitter.svg"; path = "../src/assets/images/misc/twitter.svg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BB9E0D844677495C88D559A0 /* spiderman.webp */ = {isa = PBXFileReference; name = "spiderman.webp"; path = "../src/assets/images/spiderman.webp"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3CBEECCC8FE9483C8690230D /* farcry6.png */ = {isa = PBXFileReference; name = "farcry6.png"; path = "../src/assets/images/farcry6.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D8372E984074458C8870CEAE /* altosodyssey.jpeg */ = {isa = PBXFileReference; name = "altosodyssey.jpeg"; path = "../src/assets/images/altosodyssey.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		66441AE3EAE44958BD064B2C /* asphalt9.jpeg */ = {isa = PBXFileReference; name = "asphalt9.jpeg"; path = "../src/assets/images/asphalt9.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		4898CF1CC1DD4CFDAD0E4E5F /* battlefield2042.webp */ = {isa = PBXFileReference; name = "battlefield2042.webp"; path = "../src/assets/images/battlefield2042.webp"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF9D20CF4886499EAF54758B /* diablo4.jpeg */ = {isa = PBXFileReference; name = "diablo4.jpeg"; path = "../src/assets/images/diablo4.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9ED3417493C04A92BA9BB719 /* genshinimpact.jpeg */ = {isa = PBXFileReference; name = "genshinimpact.jpeg"; path = "../src/assets/images/genshinimpact.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		55A4C0CBFCBA4EA2B3E21CD1 /* godofwar.jpeg */ = {isa = PBXFileReference; name = "godofwar.jpeg"; path = "../src/assets/images/godofwar.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		444D594EC5064D6AA47B8F3C /* haloinfinite.jpeg */ = {isa = PBXFileReference; name = "haloinfinite.jpeg"; path = "../src/assets/images/haloinfinite.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F98D7EE5FAF248908BA21DEC /* game1.jpeg */ = {isa = PBXFileReference; name = "game1.jpeg"; path = "../src/assets/images/homescreen/game1.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E07E73EDCB234F8EB8B8D416 /* game2.jpeg */ = {isa = PBXFileReference; name = "game2.jpeg"; path = "../src/assets/images/homescreen/game2.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		36F0D47D8C894224B534AE1F /* game3.png */ = {isa = PBXFileReference; name = "game3.png"; path = "../src/assets/images/homescreen/game3.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		26CC7530FD404F6592544765 /* menubg.jpeg */ = {isa = PBXFileReference; name = "menubg.jpeg"; path = "../src/assets/images/menubg.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9824A74AF28D48378DE1DC75 /* milesmorales.webp */ = {isa = PBXFileReference; name = "milesmorales.webp"; path = "../src/assets/images/milesmorales.webp"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6B30D4BC2B9A44AB90FB885D /* pokemonunite.jpeg */ = {isa = PBXFileReference; name = "pokemonunite.jpeg"; path = "../src/assets/images/pokemonunite.jpeg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E82695E7129A405298851687 /* userprofile.jpg */ = {isa = PBXFileReference; name = "userprofile.jpg"; path = "../src/assets/images/userprofile.jpg"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +182,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				58CB722FA70D4B91A9912A10 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +208,44 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		58CB722FA70D4B91A9912A10 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				E6C1734CA4EC4EE68AE8D4C6 /* Inter-Bold.ttf */,
+				02F7E622645A4E8A912864E3 /* Roboto-Bold.ttf */,
+				C5F74EA5500E4539870C02C2 /* Roboto-BoldItalic.ttf */,
+				C9EBA2EE760B40909DFFF804 /* Roboto-Italic.ttf */,
+				D52FBEDA368A4E4A9B858E0F /* Roboto-Medium.ttf */,
+				DD134184FDB54C498E69A1DB /* Roboto-MediumItalic.ttf */,
+				0486E1A8461543C1A97FD0C4 /* Roboto-Regular.ttf */,
+				6C9C427922A8470D9D0709EF /* fortnite.webp */,
+				0AC595D8173B4D9E9C238F24 /* facebook.svg */,
+				F64EC87E03DE4FCD9279F7E3 /* gaming.svg */,
+				651B32993B95425CA221BE44 /* google.svg */,
+				40013D97C32548B9BFC42B40 /* login.svg */,
+				C52A40B969BE42CE8D4691AC /* registration.svg */,
+				6461ACD966164B8AAB54E1F8 /* twitter.svg */,
+				BB9E0D844677495C88D559A0 /* spiderman.webp */,
+				3CBEECCC8FE9483C8690230D /* farcry6.png */,
+				D8372E984074458C8870CEAE /* altosodyssey.jpeg */,
+				66441AE3EAE44958BD064B2C /* asphalt9.jpeg */,
+				4898CF1CC1DD4CFDAD0E4E5F /* battlefield2042.webp */,
+				DF9D20CF4886499EAF54758B /* diablo4.jpeg */,
+				9ED3417493C04A92BA9BB719 /* genshinimpact.jpeg */,
+				55A4C0CBFCBA4EA2B3E21CD1 /* godofwar.jpeg */,
+				444D594EC5064D6AA47B8F3C /* haloinfinite.jpeg */,
+				F98D7EE5FAF248908BA21DEC /* game1.jpeg */,
+				E07E73EDCB234F8EB8B8D416 /* game2.jpeg */,
+				36F0D47D8C894224B534AE1F /* game3.png */,
+				26CC7530FD404F6592544765 /* menubg.jpeg */,
+				9824A74AF28D48378DE1DC75 /* milesmorales.webp */,
+				6B30D4BC2B9A44AB90FB885D /* pokemonunite.jpeg */,
+				E82695E7129A405298851687 /* userprofile.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -243,6 +342,36 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F79842DB64284238B8045D89 /* Inter-Bold.ttf in Resources */,
+				2A65EECF970C4663B004730F /* Roboto-Bold.ttf in Resources */,
+				EAD78CA4B6A248C3BE405DA9 /* Roboto-BoldItalic.ttf in Resources */,
+				E0F69CEE027C445E931E06E7 /* Roboto-Italic.ttf in Resources */,
+				C73DAD02BCF5426987E471DA /* Roboto-Medium.ttf in Resources */,
+				EDEB152057884A6CB9340393 /* Roboto-MediumItalic.ttf in Resources */,
+				E20F9E9D41AE4314ABCE3B39 /* Roboto-Regular.ttf in Resources */,
+				3D88635350A943FE9B28AA3C /* fortnite.webp in Resources */,
+				131237BD41CD42F7B9EBDA87 /* facebook.svg in Resources */,
+				5D3D2CC64644448EAC734289 /* gaming.svg in Resources */,
+				9A791FBBE1E34284BAA627A9 /* google.svg in Resources */,
+				AF241C889C65419EB6E2D1BB /* login.svg in Resources */,
+				68C9B87F897F4588B56A1621 /* registration.svg in Resources */,
+				B1417D1B436243C8A59B6429 /* twitter.svg in Resources */,
+				6A96336F612E48BAAD3CBC4D /* spiderman.webp in Resources */,
+				B1D22DDCDC3243DB8586DF8B /* farcry6.png in Resources */,
+				B376EAA932804731B9607313 /* altosodyssey.jpeg in Resources */,
+				A4DE95AD010D4E868ED3512F /* asphalt9.jpeg in Resources */,
+				12D9BD02E64144258442C533 /* battlefield2042.webp in Resources */,
+				19B16727D03443F7B387A831 /* diablo4.jpeg in Resources */,
+				B3D8A4FA0EED4FF6BA525D5D /* genshinimpact.jpeg in Resources */,
+				DC5F22CD3461413CBC7FC0A8 /* godofwar.jpeg in Resources */,
+				DA64A5F3B9A74EF29DEFF8F2 /* haloinfinite.jpeg in Resources */,
+				613572439FB5452EB8D244F1 /* game1.jpeg in Resources */,
+				E085E9B8AE1C4E2793D14476 /* game2.jpeg in Resources */,
+				BE7969DD1ADD4A3A84C0653B /* game3.png in Resources */,
+				714A4E5113304E20812A1E73 /* menubg.jpeg in Resources */,
+				E2601A47B3404D1B8A13B15F /* milesmorales.webp in Resources */,
+				6FCD5BB5B2A4416BAA0500A2 /* pokemonunite.jpeg in Resources */,
+				50F7743FB04A480D8F29E719 /* userprofile.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
