@@ -1,0 +1,170 @@
+export const sliderData = [
+  {
+    title: 'First Game',
+    image: require('../assets/images/homescreen/game1.jpeg'),
+  },
+  {
+    title: 'Second Game',
+    image: require('../assets/images/homescreen/game2.jpeg'),
+  },
+  {
+    title: 'Third Game',
+    image: require('../assets/images/homescreen/game3.png'),
+  },
+];
+
+export const paidGames = [
+  {
+    poster: require('../assets/images/spiderman.webp'),
+    title: 'Spider-Man',
+    subtitle: 'Marvel',
+    isFree: 'No',
+    price: '$25.99',
+    id: '1',
+  },
+  {
+    poster: require('../assets/images/battlefield2042.webp'),
+    title: 'Battlefield 2042',
+    subtitle: 'EA',
+    isFree: 'No',
+    price: '$19.99',
+    id: '2',
+  },
+  {
+    poster: require('../assets/images/milesmorales.webp'),
+    title: 'Spider-Man: Miles Morales',
+    subtitle: 'Marvel',
+    isFree: 'No',
+    price: '$29.99',
+    id: '3',
+  },
+  {
+    poster: require('../assets/images/haloinfinite.jpeg'),
+    title: 'Halo Infinite',
+    subtitle: 'Xbox Game',
+    isFree: 'No',
+    price: '$24.99',
+    id: '4',
+  },
+  {
+    poster: require('../assets/images/farcry6.png'),
+    title: 'Far Cry 6',
+    subtitle: 'Ubisoft',
+    isFree: 'No',
+    price: '$15.99',
+    id: '5',
+  },
+  {
+    poster: require('../assets/images/godofwar.jpeg'),
+    title: 'God of War: Ragnarok',
+    subtitle: 'Sony',
+    isFree: 'No',
+    price: '$25.99',
+    id: '6',
+  },
+  {
+    poster: require('../assets/images/spiderman.webp'),
+    title: 'Spider-Man',
+    subtitle: 'Marvel',
+    isFree: 'No',
+    price: '$25.99',
+    id: '7',
+  },
+  {
+    poster: require('../assets/images/battlefield2042.webp'),
+    title: 'Battlefield 2042',
+    subtitle: 'EA',
+    isFree: 'No',
+    price: '$19.99',
+    id: '8',
+  },
+  {
+    poster: require('../assets/images/milesmorales.webp'),
+    title: 'Spider-Man: Miles Morales',
+    subtitle: 'Marvel',
+    isFree: 'No',
+    price: '$29.99',
+    id: '9',
+  },
+  {
+    poster: require('../assets/images/haloinfinite.jpeg'),
+    title: 'Halo Infinite',
+    subtitle: 'Xbox Game',
+    isFree: 'No',
+    price: '$24.99',
+    id: '10',
+  }
+];
+
+export const freeGames = [
+  {
+    poster: require('../assets/images/altosodyssey.jpeg'),
+    title: 'Altos Odyssey',
+    subtitle: 'Noodlecake Studios',
+    isFree: 'Yes',
+    id: '1',
+  },
+  {
+    poster: require('../assets/images/asphalt9.jpeg'),
+    title: 'Asphalt 9',
+    subtitle: 'Gameloft',
+    isFree: 'Yes',
+    id: '2',
+  },
+  {
+    poster: require('../assets/images/genshinimpact.jpeg'),
+    title: 'Genshin Impact',
+    subtitle: 'miHoYo',
+    isFree: 'Yes',
+    id: '3',
+  },
+  {
+    poster: require('../assets/images/fortnite.webp'),
+    title: 'Fortnite',
+    subtitle: 'Epic Games',
+    isFree: 'Yes',
+    id: '4',
+  },
+  {
+    poster: require('../assets/images/pokemonunite.jpeg'),
+    title: 'Pokémon Unite',
+    subtitle: 'The Pokémon Company',
+    isFree: 'Yes',
+    id: '5',
+  },
+  {
+    poster: require('../assets/images/diablo4.jpeg'),
+    title: 'Diablo 4',
+    subtitle: 'Blizzard Entertainment',
+    isFree: 'Yes',
+    id: '6',
+  },
+  {
+    poster: require('../assets/images/altosodyssey.jpeg'),
+    title: 'Altos Odyssey',
+    subtitle: 'Noodlecake Studios',
+    isFree: 'Yes',
+    id: '7',
+  },
+  {
+    poster: require('../assets/images/asphalt9.jpeg'),
+    title: 'Asphalt 9',
+    subtitle: 'Gameloft',
+    isFree: 'Yes',
+    id: '8',
+  },
+  {
+    poster: require('../assets/images/genshinimpact.jpeg'),
+    title: 'Genshin Impact',
+    subtitle: 'miHoYo',
+    isFree: 'Yes',
+    id: '9',
+  },
+  {
+    poster: require('../assets/images/fortnite.webp'),
+    title: 'Fortnite',
+    subtitle: 'Epic Games',
+    isFree: 'Yes',
+    id: '10',
+  }
+];
